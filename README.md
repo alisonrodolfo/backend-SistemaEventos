@@ -1,4 +1,4 @@
-<h1 align="center"> Este é um projeto de implementação de Ecommerce </h1>
+<h1 align="center"> Este é um projeto de implementação backend Ecommerce </h1>
 
 
 > DESENVOLVIMENTO EM PROGRESSO *JAVA *SPRING *API Rest *PostgreSQL
